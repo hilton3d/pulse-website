@@ -176,6 +176,7 @@ header h1 {
 }
 
 .left-card ul {
+  list-style-type: disc;
   width: 90%;
 }
 
@@ -283,6 +284,11 @@ header h1 {
 
 .faq-item p {
   line-height: 24px;
+}
+
+.faq-item h3 {
+  font-weight: bold;
+  font-size: 1.17em;
 }
 
 .footer-section {
